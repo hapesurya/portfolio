@@ -8,8 +8,6 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-:star: Star me on GitHub — it helps!
-
 ## Features 📋
 ⚡️ Fully Responsive\
 ⚡️ Valid HTML5 & CSS3\
