@@ -16,22 +16,18 @@
 ⚡️ Typing animation using `Typed.js`\
 ⚡️ Easy to modify
 
-## Installation & Deployment 📦
+## If You Also Want To Use This Repo 📦
 - Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+- Add or remove files from `assets/` directory as per your requirement.
+- Also check yout .gitignore file asper your requirement.
 
 ## Sections 📚
+✔️ Home\
 ✔️ About\
-✔️ Interests\
 ✔️ Education\
-✔️ Online Certification\
 ✔️ Experience\
 ✔️ Projects \
 ✔️ Skills \
-✔️ Resume\
 ✔️ Contact Info
 
 
@@ -45,7 +41,7 @@
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine.
+    - 👯 Clone this repo to your GitHub account.
 
 
 #### Step 2
